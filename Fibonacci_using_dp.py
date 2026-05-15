@@ -1,3 +1,8 @@
+# Problem: Fibonacci Number
+# Difficulty: Easy
+# Approach: Dynamic Programming
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def fib(self, n: int) -> int:
         dp = [-1] * (n + 1)
