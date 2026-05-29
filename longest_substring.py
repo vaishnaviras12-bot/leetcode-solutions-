@@ -28,7 +28,7 @@
 # Explanation:
 # The longest substring without repeating characters is "abc".
 class Solution:
-    def lengthOfLongestSubstring(self,s) -> int:
+    def lengthOfLongestSubstring(self,s):
 
         left = 0
         right = 0
