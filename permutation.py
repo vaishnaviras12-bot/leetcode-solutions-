@@ -10,3 +10,4 @@ def getpermutation(arr,index):
         arr[index],arr[i] = arr[i],arr[index]
 #example-
 getpermutation([1,2,3],0)
+print(result)
