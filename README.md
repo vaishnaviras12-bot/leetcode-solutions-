@@ -9,8 +9,8 @@ This repository contains my LeetCode problem solutions in Python.
 
 ## Stats
 - Total Problems Solved: 31
-- Easy: 22
-- Medium: 7
+- Easy: 43
+- Medium: 21
 - Hard: 2
 
 ## Profiles
