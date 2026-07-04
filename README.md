@@ -8,7 +8,7 @@ This repository contains my LeetCode problem solutions in Python.
 - Dynamic Programming
 
 ## Stats
-- Total Problems Solved: 31
+- Total Problems Solved: 66
 - Easy: 43
 - Medium: 21
 - Hard: 2
