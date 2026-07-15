@@ -1,4 +1,6 @@
 #33.Binary Search In Rotated Array
+#Time complexity - O(log n)
+#Space complexity - O(1)
 from typing_extensions import List
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
