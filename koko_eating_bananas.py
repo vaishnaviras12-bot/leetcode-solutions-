@@ -11,7 +11,7 @@ class Solution:
                 hour+= (piles[i] + mid -1)//mid
                 i+=1
             return hour
-        low=1
+        low=1  
         high=max(piles)
         ans=high
         while low<=high:
