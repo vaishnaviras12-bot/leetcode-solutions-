@@ -16,3 +16,15 @@ This repository contains my LeetCode problem solutions in Python.
 ## Profiles
 - LeetCode: https://leetcode.com/u/vaishnavii_rastogi/
 - LinkedIn: https://linkedin.com/in/vaishnavi-rastogi12
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
