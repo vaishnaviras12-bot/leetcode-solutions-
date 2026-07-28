@@ -23,8 +23,10 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
