@@ -39,4 +39,12 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
