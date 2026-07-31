@@ -24,6 +24,7 @@ This repository contains my LeetCode problem solutions in Python.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -47,4 +48,16 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
