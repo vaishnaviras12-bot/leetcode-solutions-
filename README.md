@@ -60,4 +60,16 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
