@@ -48,6 +48,7 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
