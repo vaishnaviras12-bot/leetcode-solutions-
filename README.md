@@ -44,6 +44,7 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
+| [0525-contiguous-array](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0146-lru-cache) |
+| [0525-contiguous-array](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |
@@ -84,4 +86,8 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
