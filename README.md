@@ -66,16 +66,19 @@ This repository contains my LeetCode problem solutions in Python.
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -90,4 +93,8 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0525-contiguous-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
