@@ -81,6 +81,7 @@ This repository contains my LeetCode problem solutions in Python.
 | [0133-clone-graph](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0733-flood-fill) |
@@ -109,6 +110,7 @@ This repository contains my LeetCode problem solutions in Python.
 | [0133-clone-graph](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0733-flood-fill) |
 ## Divide and Conquer
 |  |
@@ -127,4 +129,13 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
