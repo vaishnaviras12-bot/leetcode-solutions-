@@ -53,6 +53,7 @@ This repository contains my LeetCode problem solutions in Python.
 | ------- |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
