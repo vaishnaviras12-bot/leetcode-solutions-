@@ -44,6 +44,7 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0525-contiguous-array](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0525-contiguous-array) |
@@ -139,4 +140,12 @@ This repository contains my LeetCode problem solutions in Python.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
