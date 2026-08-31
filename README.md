@@ -43,6 +43,7 @@ This repository contains my LeetCode problem solutions in Python.
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -143,6 +144,7 @@ This repository contains my LeetCode problem solutions in Python.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
