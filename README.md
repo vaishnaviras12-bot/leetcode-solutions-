@@ -43,6 +43,7 @@ This repository contains my LeetCode problem solutions in Python.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
@@ -144,6 +145,7 @@ This repository contains my LeetCode problem solutions in Python.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
 ## Bit Manipulation
