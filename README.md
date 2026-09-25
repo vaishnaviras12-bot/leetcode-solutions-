@@ -47,6 +47,7 @@ This repository contains my LeetCode problem solutions in Python.
 | [0046-permutations](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0525-contiguous-array](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0525-contiguous-array) |
@@ -82,6 +83,7 @@ This repository contains my LeetCode problem solutions in Python.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0200-number-of-islands) |
@@ -123,6 +125,7 @@ This repository contains my LeetCode problem solutions in Python.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0733-flood-fill) |
 ## Union-Find
@@ -148,8 +151,13 @@ This repository contains my LeetCode problem solutions in Python.
 | [0039-combination-sum](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vaishnaviras12-bot/leetcode-solutions-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
